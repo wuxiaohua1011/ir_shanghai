@@ -13,4 +13,5 @@ Content:
     - bfs search algo implementation and visualization
     - dijkstra search algo implementation and visualization
     - simple pygame example
+    - simple Greedy Snake Game
 
