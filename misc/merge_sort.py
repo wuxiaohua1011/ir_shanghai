@@ -52,14 +52,14 @@ def merge(A, start, mid, end):
 
 def showGraph():
     # for random unique values
-    n = 20
+    n = 100
     a = [i for i in range(1, n + 1)]
     random.shuffle(a)
     datasetName = 'Random'
 
     # generator object returned by the function
     generator = mergesort(a, 0, len(a) - 1)
-    algoName = 'Merge Sort'
+    algoName = 'Mergpe Sort'
 
     # style of the chart
     plt.style.use('fivethirtyeight')
