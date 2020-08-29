@@ -1,0 +1,3 @@
+[submodule "misc/misc/python-kmeans"]
+	path = misc/misc/python-kmeans
+	url = https://github.com/tofti/python-kmeans

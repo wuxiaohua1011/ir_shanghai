@@ -14,4 +14,6 @@ Content:
     - dijkstra search algo implementation and visualization
     - simple pygame example
     - simple Greedy Snake Game
+    - merge_sort
+    - quick_sort
 
